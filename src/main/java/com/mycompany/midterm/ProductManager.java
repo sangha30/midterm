@@ -9,5 +9,6 @@ package com.mycompany.midterm;
  * @author sangh
  */
 public class ProductManager {
+    // this is a method that will caculate the discount
     public void calculateDiscount(){}
 }
