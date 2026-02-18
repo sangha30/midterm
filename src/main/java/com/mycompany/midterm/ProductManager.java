@@ -9,5 +9,5 @@ package com.mycompany.midterm;
  * @author sangh
  */
 public class ProductManager {
-    
+    public void calculateDiscount(){}
 }
